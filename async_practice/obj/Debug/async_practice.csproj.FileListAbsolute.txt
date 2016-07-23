@@ -1,0 +1,9 @@
+C:\Users\admin\source_C#_programs\async_practice\async_practice\bin\Debug\async_practice.exe.config
+C:\Users\admin\source_C#_programs\async_practice\async_practice\bin\Debug\async_practice.exe
+C:\Users\admin\source_C#_programs\async_practice\async_practice\bin\Debug\async_practice.pdb
+C:\Users\admin\source_C#_programs\async_practice\async_practice\obj\Debug\async_practice.csprojResolveAssemblyReference.cache
+C:\Users\admin\source_C#_programs\async_practice\async_practice\obj\Debug\async_practice.Form1.resources
+C:\Users\admin\source_C#_programs\async_practice\async_practice\obj\Debug\async_practice.Properties.Resources.resources
+C:\Users\admin\source_C#_programs\async_practice\async_practice\obj\Debug\async_practice.csproj.GenerateResource.Cache
+C:\Users\admin\source_C#_programs\async_practice\async_practice\obj\Debug\async_practice.exe
+C:\Users\admin\source_C#_programs\async_practice\async_practice\obj\Debug\async_practice.pdb
